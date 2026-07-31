@@ -99,15 +99,12 @@ Handles general knowledge queries and generates direct answers.
 
 Add your workflow screenshot:
 
-```
+
 ![Workflow](screenshots/workflow.png)
-```
 
 Add your usage screenshot:
 
-```
-![Usage](screenshots/usage.png)
-```
+![Usage](screenshots/usage.jpeg)
 
 ## Notes
 
