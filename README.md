@@ -104,8 +104,7 @@ Add your workflow screenshot:
 
 Add your usage screenshot:
 
-![Usage](screenshots/usage.jpeg)
-<img src="screenshots/workflow.png" width="350"/>
+<img src="screenshots/usage.jpeg" width="350"/>
 
 ## Notes
 
