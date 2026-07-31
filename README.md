@@ -78,7 +78,6 @@ Handles general knowledge queries and generates direct answers.
 - Gmail API
 - Google Calendar API
 - Google Sheets
-- LangChain Agents
 
 ## Setup
 
@@ -97,12 +96,11 @@ Handles general knowledge queries and generates direct answers.
 
 ## Screenshots
 
-Add your workflow screenshot:
-
+Workflow screenshot:
 
 ![Workflow](screenshots/workflow.png)
 
-Add your usage screenshot:
+Usage screenshot:
 
 <img src="screenshots/usage.jpeg" width="350"/>
 
